@@ -1,0 +1,68 @@
+.bg-cover {
+   
+    background-size:cover;
+    background-position: center center;
+}
+
+.bg-overlap {
+    margin: -20px 0;
+  }
+
+  @media (max-width: 768px) {
+    .bg-overlap {
+        margin: 0;
+      }
+    }
+
+.bg-footer {
+    background-color: #EAF0ED;
+    }
+
+.bg-primary {
+    background-color: #007bff !important;
+    }
+
+.bg-secondary {
+    background-color: #6c757d !important;
+    }
+
+.bg-success {
+    background-color: #28a745 !important;
+    }
+
+.bg-info {
+    background-color: #17a2b8 !important;
+    }
+
+.bg-warning {
+    background-color: #ffc107 !important;
+    }
+
+.bg-danger {
+    background-color: #dc3545 !important;
+    }
+
+    .bg-light {
+        background-color: #f8f9fa !important;
+      }
+      .bg-dark {
+        background-color: #343a40 !important;
+      }
+      .bg-theme {
+        background-color: #3f5d45 !important;
+      }
+      .bg-theme1 {
+        background-color: #ffe180 !important;
+      }
+      .bg-theme2 {
+        background-color: #eaf0ed !important;
+      }
+      .bg-theme3 {
+        background-color: #8da291 !important;
+      }
+      .bg-white {
+        background-color: #fff !important;
+      }
+      .bg-transparent {
+        background-color: transparent !important;
+      }
